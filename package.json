@@ -1,0 +1,27 @@
+{
+  "name": "burgerapp",
+  "version": "1.0.0",
+  "description": "order and then eat some burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcLewin/BurgerApp.git"
+  },
+  "author": "Marc Lewin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcLewin/BurgerApp/issues"
+  },
+  "homepage": "https://github.com/MarcLewin/BurgerApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "my-sql": "^1.2.15",
+    "mysql": "^2.15.0",
+    "save": "^2.3.2"
+  }
+}
